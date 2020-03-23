@@ -23,6 +23,7 @@
 | 大阪大学 |  | 3/24更新今のところ予定通り | 2020/03/21 | https://www.osaka-u.ac.jp/ja/news/info/corona/passed |
 | 神戸大学 |  | 3月中 | 2020/03/21 | https://www.kobe-u.ac.jp/NEWS/info/2020_03_13_01.html |
 | 広島大学 |  | 今のところ変更なし | 2020/03/21 | https://www.hiroshima-u.ac.jp/news/56826 |
+| 山口大学 | | | 2020/03/23 | | http://www.yamaguchi-u.ac.jp/_8288/_8402.html | 
 | 徳島大学 |  |  | 2020/03/21 | https://www.tokushima-u.ac.jp/about/virus/index.html |
 | 香川大学 |  |  | 2020/03/21 | https://www.kagawa-u.ac.jp/topics/ |
 | 一橋大学 |  |  | 2020/03/21 | https://www.hit-u.ac.jp/index.html |
