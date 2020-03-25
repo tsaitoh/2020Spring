@@ -1,7 +1,7 @@
 # 2020年春の新学期開始時期の情報を集めたメモ
 
 コロナウィルスの影響で各大学で学事暦に影響が出ています。
-ここではそれらの情報をメモとしてまとめておきます。
+ここではそれらの情報をメモとしてまとめておきます。あくまで個人的なメモなので、必ず確認をしてください。
 プルリクエストによる情報提供を歓迎します。
 
 ## 国立大学
@@ -16,7 +16,7 @@
 | 東京工業大学 | 4/4 | 新入生セミナー中止 |　2020/03/21 | https://www.titech.ac.jp/news/2020/046433.html |
 | 筑波大学 |  | 3/27頃通知 | 2020/03/21 | http://www.tsukuba.ac.jp/campuslife/ceremony/entrance.html |
 | 新潟大学 | 4/20 | | 2020/03/21 | https://www.niigata-u.ac.jp/news/2020/69210/ |
-| 静岡大学 |  | 今後通知4月3日～16日ガイダンスは実施 | 2020/03/21 | https://www.shizuoka.ac.jp/news/detail.html?CN=6291 |
+| 静岡大学 |  | 今後通知4/3~16ガイダンスは実施 | 2020/03/21 | https://www.shizuoka.ac.jp/news/detail.html?CN=6291 |
 | 名古屋大学 | 4/17 | | 2020/03/21 | http://www.nagoya-u.ac.jp/academics/reminder/2020guidance/index.html |
 | 滋賀大学 |  |  | 2020/03/21 | https://www.shiga-u.ac.jp/2020/ |
 | 京都大学 |  | 3/25お知らせ| 2020/03/21 | http://www.kyoto-u.ac.jp/ja/about/foundation/coronavirus/ |
@@ -43,5 +43,5 @@
 | 北海学園大学 | 4/15 | | 2020/03/21 | https://www.hgu.jp/info/news/20200309-01.html |
 | 青山学院大学 | 4/21 | | 2020/03/22 | https://www.aoyama.ac.jp/post05/2019/news_20200319 |
 | 早稲田大学 | 5/11 |  | 2020/03/25 | https://www.waseda.jp/top/news/68799 |
-|  |  | | | |
+| 慶応大学 | 4/30 | 4/13~4/28 ガイダンス期間 | 2020/03/25 | https://www.students.keio.ac.jp/com/class/schedule/academic-calendar.html |
 |  |  | | | |
