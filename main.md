@@ -27,7 +27,7 @@
 | 徳島大学 |  |  | 2020/03/21 | https://www.tokushima-u.ac.jp/about/virus/index.html |
 | 香川大学 |  |  | 2020/03/21 | https://www.kagawa-u.ac.jp/topics/ |
 | 一橋大学 |  |  | 2020/03/21 | https://www.hit-u.ac.jp/index.html |
-| 九州大学 | |  3/24ごろ | 2020/03/21 | https://www.kyushu-u.ac.jp/ja/notices/view/1547 |
+| 九州大学 | 4/15 | | 2020/03/25 | https://www.kyushu-u.ac.jp/ja/notices/view/1564 |
 | 鹿児島大学 |  |  | 2020/03/21 | https://www.kagoshima-u.ac.jp/important/2020/03/kuspecialsiteforcovid19.html |
 | 琉球大学 |  |  | 2020/03/21 | http://www.u-ryukyu.ac.jp/news/11883/ |
 |  |  |  | 2020/03/21 |  |
