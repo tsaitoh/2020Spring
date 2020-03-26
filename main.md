@@ -18,6 +18,8 @@
 | 一橋大学 | 4/6 | 一部4/20 | 2020/03/26 |　https://www.hit-u.ac.jp/students_info/7334 |
 | 筑波大学 |  | 3/27頃通知 | 2020/03/21 | http://www.tsukuba.ac.jp/campuslife/ceremony/entrance.html |
 | 新潟大学 | 4/20 | | 2020/03/21 | https://www.niigata-u.ac.jp/news/2020/69210/ |
+| 山梨大学 | 5/7 || 2020/03/26 | https://www.yamanashi.ac.jp/25269 | 
+| 信州大学 | | | | |
 | 静岡大学 |  | 今後通知4/3~16ガイダンスは実施 | 2020/03/21 | https://www.shizuoka.ac.jp/news/detail.html?CN=6291 |
 | 名古屋大学 | 4/17 | | 2020/03/21 | http://www.nagoya-u.ac.jp/academics/reminder/2020guidance/index.html |
 | 滋賀大学 |  |  | 2020/03/21 | https://www.shiga-u.ac.jp/2020/ |
