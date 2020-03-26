@@ -45,4 +45,6 @@
 | 青山学院大学 | 4/21 | | 2020/03/22 | https://www.aoyama.ac.jp/post05/2019/news_20200319 |
 | 早稲田大学 | 5/11 |  | 2020/03/25 | https://www.waseda.jp/top/news/68799 |
 | 慶応大学 | 4/30 | 4/13~4/28 ガイダンス期間 | 2020/03/25 | https://www.students.keio.ac.jp/com/class/schedule/academic-calendar.html |
-|  |  | | | |
+| 京都産業大学 | 4/6 | 4/6-19 は対面授業なし | 2020/03/26 | https://www.kyoto-su.ac.jp/campuslife/fresher/20200326_info_zaigakusei.html |
+| | | | |
+
