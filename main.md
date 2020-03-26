@@ -15,6 +15,7 @@
 | 東京大学 |  | 学事暦通り/オンライン講義 | 2020/03/21 | https://www.tohoku.ac.jp/japanese/2020/03/news20200317-06.html |
 | 東京都立大学 | 5/11 | | 2020/03/26 | https://www.tmu.ac.jp/extra/download.html?d=assets/files/download/news/20200325_2.pdf |
 | 東京工業大学 | 4/4 | 新入生セミナー中止 |　2020/03/21 | https://www.titech.ac.jp/news/2020/046433.html |
+| 一橋大学 | 4/6 | 一部4/20 | 2020/03/26 |　https://www.hit-u.ac.jp/students_info/7334 |
 | 筑波大学 |  | 3/27頃通知 | 2020/03/21 | http://www.tsukuba.ac.jp/campuslife/ceremony/entrance.html |
 | 新潟大学 | 4/20 | | 2020/03/21 | https://www.niigata-u.ac.jp/news/2020/69210/ |
 | 静岡大学 |  | 今後通知4/3~16ガイダンスは実施 | 2020/03/21 | https://www.shizuoka.ac.jp/news/detail.html?CN=6291 |
@@ -27,7 +28,6 @@
 | 山口大学 | | | 2020/03/23 | | http://www.yamaguchi-u.ac.jp/_8288/_8402.html | 
 | 徳島大学 |  |  | 2020/03/21 | https://www.tokushima-u.ac.jp/about/virus/index.html |
 | 香川大学 |  |  | 2020/03/21 | https://www.kagawa-u.ac.jp/topics/ |
-| 一橋大学 |  |  | 2020/03/21 | https://www.hit-u.ac.jp/index.html |
 | 九州大学 | 4/15 | | 2020/03/25 | https://www.kyushu-u.ac.jp/ja/notices/view/1564 |
 | 鹿児島大学 | 4/20 |  | 2020/03/26 | https://www.kagoshima-u.ac.jp/important/2020/03/post-90.html |
 | 琉球大学 | 4/9 | オリエンテーション変更あり | 2020/03/26 | http://www.u-ryukyu.ac.jp/news/12098/ |
