@@ -11,6 +11,7 @@
 | 北見工業大学 | 5/7 |  | 2020/03/21 | https://www.kitami-it.ac.jp/topics/40580/ |
 | 北海道大学 | 4/15 | | 2020/03/23 | http://sougou.academic.hokudai.ac.jp/info/guidance.html |
 | 弘前大学  | | | | |
+| 秋田大学 | 4/20 | ガイダンスはその前にあり、4/5までに秋田での居住開始 | 2020/03/26 | https://www.akita-u.ac.jp/honbu/info/in_corona05.html|
 | 東北大学 | 4/20 | | 2020/03/21 | https://www.tohoku.ac.jp/japanese/2020/03/news20200317-06.html |
 | 東京大学 |  | 学事暦通り/オンライン講義 | 2020/03/21 | https://www.tohoku.ac.jp/japanese/2020/03/news20200317-06.html |
 | 東京都立大学 | 5/11 | | 2020/03/26 | https://www.tmu.ac.jp/extra/download.html?d=assets/files/download/news/20200325_2.pdf |
