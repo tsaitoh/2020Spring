@@ -13,6 +13,7 @@
 | 弘前大学  | | | | |
 | 東北大学 | 4/20 | | 2020/03/21 | https://www.tohoku.ac.jp/japanese/2020/03/news20200317-06.html |
 | 東京大学 |  | 学事暦通り/オンライン講義 | 2020/03/21 | https://www.tohoku.ac.jp/japanese/2020/03/news20200317-06.html |
+| 東京都立大学 | 5/11 | | 2020/03/26 | https://www.tmu.ac.jp/extra/download.html?d=assets/files/download/news/20200325_2.pdf |
 | 東京工業大学 | 4/4 | 新入生セミナー中止 |　2020/03/21 | https://www.titech.ac.jp/news/2020/046433.html |
 | 筑波大学 |  | 3/27頃通知 | 2020/03/21 | http://www.tsukuba.ac.jp/campuslife/ceremony/entrance.html |
 | 新潟大学 | 4/20 | | 2020/03/21 | https://www.niigata-u.ac.jp/news/2020/69210/ |
