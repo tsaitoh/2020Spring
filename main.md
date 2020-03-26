@@ -30,7 +30,7 @@
 | 一橋大学 |  |  | 2020/03/21 | https://www.hit-u.ac.jp/index.html |
 | 九州大学 | 4/15 | | 2020/03/25 | https://www.kyushu-u.ac.jp/ja/notices/view/1564 |
 | 鹿児島大学 |  |  | 2020/03/21 | https://www.kagoshima-u.ac.jp/important/2020/03/kuspecialsiteforcovid19.html |
-| 琉球大学 |  |  | 2020/03/21 | http://www.u-ryukyu.ac.jp/news/11883/ |
+| 琉球大学 | 4/9 | オリエンテーション変更あり | 2020/03/26 | http://www.u-ryukyu.ac.jp/news/12098/ |
 |  |  |  | 2020/03/21 |  |
 |  |  |  | 2020/03/21 |  |
 |  |  |  | 2020/03/21 |  |
