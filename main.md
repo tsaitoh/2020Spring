@@ -52,5 +52,6 @@
 | 慶応大学 | 4/30 | 4/13~4/28 ガイダンス期間 | 2020/03/25 | https://www.students.keio.ac.jp/com/class/schedule/academic-calendar.html |
 | 東京工科大学 | 5/7 | | 2020/03/27 | https://www.teu.ac.jp/information/2020.html?id=83 |
 | 京都産業大学 | 4/6 | 4/6-19 は対面授業なし | 2020/03/26 | https://www.kyoto-su.ac.jp/campuslife/fresher/20200326_info_zaigakusei.html |
+| 甲南大学 | 4/20 | 履修登録期間は予定通り | 2020/03/27 | https://www.konan-u.ac.jp/news/archives/27518?fbclid=IwAR1hbbd741IrhWcZUJBRdEH1i6cFheVUmebfdd60DmWk_wBfPT_fEJ2dpPk | 
 | | | | |
 
