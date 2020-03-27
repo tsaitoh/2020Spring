@@ -30,6 +30,7 @@
 | 神戸大学 | 4/20 | 1コマ90分から105分 | 2020/03/25 |https://www.kobe-u.ac.jp/NEWS/sub_student/2020_03_25_01.html |
 | 広島大学 |  | 今のところ変更なし | 2020/03/21 | https://www.hiroshima-u.ac.jp/news/56826 |
 | 山口大学 | | | 2020/03/23 | | http://www.yamaguchi-u.ac.jp/_8288/_8402.html | 
+| 愛媛大学 | 4/7 | 変更なし | 2020/03/27 | https://www.ehime-u.ac.jp/post-114603/ | 
 | 徳島大学 |  |  | 2020/03/21 | https://www.tokushima-u.ac.jp/about/virus/index.html |
 | 香川大学 |  |  | 2020/03/21 | https://www.kagawa-u.ac.jp/topics/ |
 | 九州大学 | 4/15 | | 2020/03/25 | https://www.kyushu-u.ac.jp/ja/notices/view/1564 |
