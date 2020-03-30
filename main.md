@@ -10,7 +10,7 @@
 |大学名|開始時期|備考<br>(土日祝日の扱い他)|確認日|出典|
 | ---- | ---- | ---- | ---- | ---- |
 | 北見工業大学 | 5/7 |  | 2020/03/21 | https://www.kitami-it.ac.jp/topics/40580/ |
-| 北海道大学 | 4/15 | | 2020/03/23 | http://sougou.academic.hokudai.ac.jp/info/guidance.html |
+| 北海道大学 | 5月上旬 | | 2020/03/30 | http://sougou.academic.hokudai.ac.jp/info/guidance.html |
 | 弘前大学  | | | | |
 | 秋田大学 | 4/20 | ガイダンスはその前にあり、4/5までに秋田での居住開始 | 2020/03/26 | https://www.akita-u.ac.jp/honbu/info/in_corona05.html|
 | 東北大学 | 4/20 | | 2020/03/21 | https://www.tohoku.ac.jp/japanese/2020/03/news20200317-06.html |
