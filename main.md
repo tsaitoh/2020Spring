@@ -23,7 +23,7 @@
 | 新潟大学 | 4/20 | | 2020/03/21 | https://www.niigata-u.ac.jp/news/2020/69210/ |
 | 山梨大学 | 5/7 || 2020/03/26 | https://www.yamanashi.ac.jp/25269 | 
 | 信州大学 | | | | |
-| 静岡大学 |  | 今後通知4/3~16ガイダンスは実施 | 2020/03/21 | https://www.shizuoka.ac.jp/news/detail.html?CN=6291 |
+| 静岡大学 | 4/9 | | 2020/03/30 | https://www.shizuoka.ac.jp/news/detail.html?CN=6322 |
 | 名古屋大学 | 4/17 | | 2020/03/21 | http://www.nagoya-u.ac.jp/academics/reminder/2020guidance/index.html |
 | 滋賀大学 |  |  | 2020/03/21 | https://www.shiga-u.ac.jp/2020/ |
 | 京都大学 | 4/8 | | 2020/03/27 | http://www.kyoto-u.ac.jp/ja/education-campus/events_news/office/kyoiku-suishin-gakusei-shien/kyomu-kikaku/news/2019/documents/200326_1/01.pdf |
