@@ -58,6 +58,7 @@
 | 日本大学 | 4/20 | ガイダンス、健康診断、オリエンテーションはその前にあり | 2020/03/27 | http://www.ce.nihon-u.ac.jp/info/%e6%96%b0%e5%9e%8b%e3%82%b3%e3%83%ad%e3%83%8a%e3%82%a6%e3%82%a4%e3%83%ab%e3%82%b9%e3%81%ae%e6%84%9f%e6%9f%93%e6%8b%a1%e5%a4%a7%e9%98%b2%e6%ad%a2%e3%81%ab%e4%bc%b4%e3%81%86%e5%ad%a6%e4%ba%8b%e6%97%a5/ |
 | 東邦大学 | 4/20 | | 2020/03/28 | https://www.toho-u.ac.jp/upnews/2019/20200201.html?fbclid=IwAR1-hGEje3IPWuRxiiOU0WnDciu6gQGDp76BiqNomL_DxDvSuy3VF3O-Re4 | 
 | 京都産業大学 | 5/11 |  | 2020/03/30 |　https://www.kyoto-su.ac.jp/news/20200329_345_attention01.html |
+| 天理大学 | 5/7 | | 2020/03/30 | https://www.tenri-u.ac.jp/topics/q3tncs00001uk7n8.html | 
 | 甲南大学 | 4/20 | 履修登録期間は予定通り | 2020/03/27 | https://www.konan-u.ac.jp/news/archives/27518?fbclid=IwAR1hbbd741IrhWcZUJBRdEH1i6cFheVUmebfdd60DmWk_wBfPT_fEJ2dpPk | 
 | | | | |
 
