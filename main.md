@@ -38,12 +38,11 @@
 | 香川大学 |  |  | 2020/03/31 | [大学webページ](https://www.kagawa-u.ac.jp/topics/) |
 | 高知大学 | 4/17 | 2020/03/31 | [大学webページ](http://www.kochi-u.ac.jp/important_announcement/2020033100032)|
 | 九州大学 | 4/15 | | 2020/03/25 | [大学webページ](https://www.kyushu-u.ac.jp/ja/notices/view/1564) |
+| 九州工業大学 | 4/20 | 2020/03/31 | [大学webページ](https://www.kyutech.ac.jp/whats-new/important/entry-7256.html#02)|
 | 熊本大学 | 4/21 | | 2020/03/30 | [大学webページ](https://www.kumamoto-u.ac.jp/daigakuseikatsu/kyoumu/202004) |
 | 鹿児島大学 | 4/20 |  | 2020/03/26 | [大学webページ](https://www.kagoshima-u.ac.jp/important/2020/03/post-90.html) |
 | 琉球大学 | 4/9 | オリエンテーション変更あり | 2020/03/26 | [大学webページ](http://www.u-ryukyu.ac.jp/news/12098/) |
-|  |  |  | 2020/03/21 |  |
-|  |  |  | 2020/03/21 |  |
-|  |  |  | 2020/03/21 |  |
+
 
 
 
