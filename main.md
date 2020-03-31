@@ -28,7 +28,7 @@
 | 名古屋大学 | 4/17 | | 2020/03/21 | http://www.nagoya-u.ac.jp/academics/reminder/2020guidance/index.html |
 | 滋賀大学 |  |  | 2020/03/21 | https://www.shiga-u.ac.jp/2020/ |
 | 京都大学 | 4/8 | | 2020/03/27 | http://www.kyoto-u.ac.jp/ja/education-campus/events_news/office/kyoiku-suishin-gakusei-shien/kyomu-kikaku/news/2019/documents/200326_1/01.pdf |
-| 大阪大学 |  | 3/27ごろ更新 | 2020/03/25 | https://www.osaka-u.ac.jp/ja/news/info/corona/passed |
+| 大阪大学 | 4/20 |  | 2020/03/31 | file:///home/takayuki/Downloads/tousyogyouji20200327.pdf |
 | 神戸大学 | 4/20 | 1コマ90分から105分 | 2020/03/25 |https://www.kobe-u.ac.jp/NEWS/sub_student/2020_03_25_01.html |
 | 広島大学 |  | 今のところ変更なし | 2020/03/21 | https://www.hiroshima-u.ac.jp/news/56826 |
 | 山口大学 | | | | 2020/03/23 | http://www.yamaguchi-u.ac.jp/_8288/_8402.html | 
