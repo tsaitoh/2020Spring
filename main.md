@@ -55,14 +55,14 @@
 | 慶応大学 | 4/30 | 4/13~4/28 ガイダンス期間 | 2020/03/25 | https://www.students.keio.ac.jp/com/class/schedule/academic-calendar.html |
 | 工学院大学 | 5/11 | | 2020/03/27 | https://www.kogakuin.ac.jp/news/2019/2020032704.html |
 | 東京工科大学 | 5/7 | | 2020/03/27 | https://www.teu.ac.jp/information/2020.html?id=83 |
-| 津田塾大学 | 4/22以降 | さらに変更があれば 4/7 までに再度通知 | 2020/03/27 | https://www.tsuda.ac.jp/news/2020/0226.html |
+| 津田塾大学 | 4/22以降 | さらに変更があれば 4/7 までに再度通知 | 2020/03/27 | [大学webページ](https://www.tsuda.ac.jp/news/2020/0226.html) |
 | 上智大学 | 5/25 | | 2020/03/31 | https://www.sophia.ac.jp/jpn/news/PR/news20200331-1.html | 
 | 国際基督教大学 | 4/9 | 全てオンライン | 2020/03/31 | https://www.icu.ac.jp/news/2003201600.html | 
-| 文教大学 | 4/22 | 登校禁止期間 4/1-4/15 | 2020/03/30 | https://www.bunkyo.ac.jp/news/info/20200326-01.html　https://www.bunkyo.ac.jp/news/info/20200330-01.html |
-| 日本大学 | 4/20 | ガイダンス、健康診断、オリエンテーションはその前にあり | 2020/03/27 | http://www.ce.nihon-u.ac.jp/info/%e6%96%b0%e5%9e%8b%e3%82%b3%e3%83%ad%e3%83%8a%e3%82%a6%e3%82%a4%e3%83%ab%e3%82%b9%e3%81%ae%e6%84%9f%e6%9f%93%e6%8b%a1%e5%a4%a7%e9%98%b2%e6%ad%a2%e3%81%ab%e4%bc%b4%e3%81%86%e5%ad%a6%e4%ba%8b%e6%97%a5/ |
-| 東邦大学 | 4/20 | | 2020/03/28 | https://www.toho-u.ac.jp/upnews/2019/20200201.html?fbclid=IwAR1-hGEje3IPWuRxiiOU0WnDciu6gQGDp76BiqNomL_DxDvSuy3VF3O-Re4 | 
+| 文教大学 | 4/22 | 登校禁止期間 4/1-4/15 | 2020/03/30 | [大学webページ](https://www.bunkyo.ac.jp/news/info/20200326-01.html　https://www.bunkyo.ac.jp/news/info/20200330-01.html) |
+| 日本大学 | 4/20 | ガイダンス、健康診断、オリエンテーションはその前にあり | 2020/03/27 | [大学webページ](http://www.ce.nihon-u.ac.jp/info/%e6%96%b0%e5%9e%8b%e3%82%b3%e3%83%ad%e3%83%8a%e3%82%a6%e3%82%a4%e3%83%ab%e3%82%b9%e3%81%ae%e6%84%9f%e6%9f%93%e6%8b%a1%e5%a4%a7%e9%98%b2%e6%ad%a2%e3%81%ab%e4%bc%b4%e3%81%86%e5%ad%a6%e4%ba%8b%e6%97%a5/) |
+| 東邦大学 | 4/20 | | 2020/03/28 | [大学webページ](https://www.toho-u.ac.jp/upnews/2019/20200201.html?fbclid=IwAR1-hGEje3IPWuRxiiOU0WnDciu6gQGDp76BiqNomL_DxDvSuy3VF3O-Re4) | 
 | 京都産業大学 | 5/11 |  | 2020/03/30 |　https://www.kyoto-su.ac.jp/news/20200329_345_attention01.html |
 | 天理大学 | 5/7 | | 2020/03/30 | https://www.tenri-u.ac.jp/topics/q3tncs00001uk7n8.html | 
-| 甲南大学 | 4/20 | 履修登録期間は予定通り | 2020/03/27 | https://www.konan-u.ac.jp/news/archives/27518?fbclid=IwAR1hbbd741IrhWcZUJBRdEH1i6cFheVUmebfdd60DmWk_wBfPT_fEJ2dpPk | 
+| 甲南大学 | 4/20 | 履修登録期間は予定通り | 2020/03/27 | [大学webページ](https://www.konan-u.ac.jp/news/archives/27518?fbclid=IwAR1hbbd741IrhWcZUJBRdEH1i6cFheVUmebfdd60DmWk_wBfPT_fEJ2dpPk) | 
 | | | | |
 
