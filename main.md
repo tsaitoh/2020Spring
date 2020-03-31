@@ -4,6 +4,7 @@
 ここではそれらの情報をメモとしてまとめておきます。あくまで個人的なメモなので、必要に応じて各大学のwebで最新情報を確認をしてください。
 学部によって違うなどもあるようです。
 プルリクエストによる情報提供を歓迎します。
+開始時期は主に授業開始日を指しています。
 
 ## 国立大学
 
@@ -17,7 +18,7 @@
 | 東北大学 | 4/20 | | 2020/03/21 | [大学webページ](https://www.tohoku.ac.jp/japanese/2020/03/news20200317-06.html |
 | 東京大学 |  | 学事暦通り/オンライン講義 | 2020/03/21 | [大学webページ](https://www.u-tokyo.ac.jp/ja/about/president/COVID-19-message.html) |
 | 東京都立大学 | 5/11 | | 2020/03/26 | [大学webページ](https://www.tmu.ac.jp/extra/download.html?d=assets/files/download/news/20200325_2.pdf) |
-| 東京工業大学 | 4/4 | 新入生セミナー中止 |　2020/03/21 | [大学webページ](https://www.titech.ac.jp/news/2020/046433.html) |
+| 東京工業大学 | 5/4 | 4/20-5/3は授業受講準備期間 |　2020/03/31 | [大学webページ](https://www.titech.ac.jp/news/2020/046433.html) |
 | 一橋大学 | 5/7 | すべてオンライン | 2020/03/30 | [大学webページ](http://www.hit-u.ac.jp/students_info/7382) |
 | 総合研究大学院大学天文学専攻 | | 4/22 web情報無し | 2020/03/27 | | 
 | 筑波大学 | 4/27 | 3/27頃通知 | 2020/03/21 | [大学webページ](http://www.tsukuba.ac.jp/news/n202003271007.html http://www.tsukuba.ac.jp/campuslife/ceremony/entrance.html) |
