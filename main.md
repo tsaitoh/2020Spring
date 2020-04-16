@@ -55,7 +55,7 @@
 | 早稲田大学 | 5/11 |  | 2020/03/25 | [大学webページ](https://www.waseda.jp/top/news/68799) |
 | 慶応大学 | 4/30 | 4/13~4/28 ガイダンス期間 | 2020/03/25 | [大学webページ](https://www.students.keio.ac.jp/com/class/schedule/academic-calendar.html) |
 | 工学院大学 | 5/11 | | 2020/03/27 | [大学webページ](https://www.kogakuin.ac.jp/news/2019/2020032704.html) |
-| 東京工科大学 | 5/7 | | 2020/03/27 | [大学webページ](https://www.teu.ac.jp/information/2020.html?id=83) |
+| 東京工科大学 | 5/20 | | 2020/04/09 | [大学webページ](https://www.teu.ac.jp/information/2020.html?id=103) |
 | 津田塾大学 | 4/22以降 | さらに変更があれば 4/7 までに再度通知 | 2020/03/27 | [大学webページ](https://www.tsuda.ac.jp/news/2020/0226.html) |
 | 上智大学 | 5/25 | | 2020/03/31 | [大学webページ](https://www.sophia.ac.jp/jpn/news/PR/news20200331-1.html) | 
 | 国際基督教大学 | 4/9 | 全てオンライン | 2020/03/31 | [大学webページ](https://www.icu.ac.jp/news/2003201600.html) | 
