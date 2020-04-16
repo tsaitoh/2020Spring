@@ -18,7 +18,7 @@
 | 東北大学 | 4/20 | | 2020/03/21 | [大学webページ](https://www.tohoku.ac.jp/japanese/2020/03/news20200317-06.html)|
 | 東京大学 |  | 学事暦通り/オンライン講義 | 2020/03/21 | [大学webページ](https://www.u-tokyo.ac.jp/ja/about/president/COVID-19-message.html) |
 | 東京都立大学 | 5/11 | | 2020/03/26 | [大学webページ](https://www.tmu.ac.jp/extra/download.html?d=assets/files/download/news/20200325_2.pdf) |
-| 東京工業大学 | 5/4 | 4/20-5/3は授業受講準備期間 |　2020/03/31 | [大学webページ](https://www.titech.ac.jp/news/2020/046433.html) |
+| 東京工業大学 | 5/4 | 4/20-5/3は授業受講準備期間 | 2020/03/31 | [大学webページ](https://www.titech.ac.jp/news/2020/046433.html) |
 | 一橋大学 | 5/7 | すべてオンライン | 2020/03/30 | [大学webページ](http://www.hit-u.ac.jp/students_info/7382) |
 | 総合研究大学院大学天文学専攻 | | 4/22 web情報無し | 2020/03/27 | | 
 | 筑波大学 | 4/27 | 3/27頃通知 | 2020/03/21 | [大学webページ](http://www.tsukuba.ac.jp/campuslife/ceremony/entrance.html) |
@@ -32,13 +32,13 @@
 | 大阪大学 | 4/20 |  | 2020/03/31 | [大学webページ]() |
 | 神戸大学 | 4/20 | 1コマ90分から105分 | 2020/03/25 | [大学webページ](https://www.kobe-u.ac.jp/NEWS/sub_student/2020_03_25_01.html) |
 | 広島大学 |  | 今のところ変更なし | 2020/03/21 | [大学webページ](https://www.hiroshima-u.ac.jp/news/56826) |
-| 山口大学 | | | | 2020/03/23 | [大学webページ](http://www.yamaguchi-u.ac.jp/_8288/_8402.html) | 
+| 山口大学 | | | 2020/03/23 | [大学webページ](http://www.yamaguchi-u.ac.jp/_8288/_8402.html) | 
 | 愛媛大学 | 4/22 |  | 2020/03/31 | [大学webページ](https://www.ehime-u.ac.jp/data_news/data_news-115090/?fbclid=IwAR3PFwYCD4JwbKDjXpc6JVWzKhK3O_Kct97Jep3HCep62gidjjWnt3Zj7CQ) | 
 | 徳島大学 | 4/15 |  | 2020/03/31 | [大学webページ](https://www.tokushima-u.ac.jp/docs/19562.html) |
 | 香川大学 |  |  | 2020/03/31 | [大学webページ](https://www.kagawa-u.ac.jp/topics/) |
-| 高知大学 | 4/17 | 2020/03/31 | [大学webページ](http://www.kochi-u.ac.jp/important_announcement/2020033100032)|
+| 高知大学 | 4/17 | | 2020/03/31 | [大学webページ](http://www.kochi-u.ac.jp/important_announcement/2020033100032)|
 | 九州大学 | 4/15 | | 2020/03/25 | [大学webページ](https://www.kyushu-u.ac.jp/ja/notices/view/1564) |
-| 九州工業大学 | 4/20 | 2020/03/31 | [大学webページ](https://www.kyutech.ac.jp/whats-new/important/entry-7256.html#02)|
+| 九州工業大学 | 4/20 | | 2020/03/31 | [大学webページ](https://www.kyutech.ac.jp/whats-new/important/entry-7256.html#02)|
 | 熊本大学 | 4/21 | | 2020/03/30 | [大学webページ](https://www.kumamoto-u.ac.jp/daigakuseikatsu/kyoumu/202004) |
 | 鹿児島大学 | 4/20 |  | 2020/03/26 | [大学webページ](https://www.kagoshima-u.ac.jp/important/2020/03/post-90.html) |
 | 琉球大学 | 4/9 | オリエンテーション変更あり | 2020/03/26 | [大学webページ](http://www.u-ryukyu.ac.jp/news/12098/) |
